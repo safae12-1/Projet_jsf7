@@ -7,4 +7,6 @@
 
 ![2](https://github.com/safae12-1/Projet_jsf7/assets/124156186/c3a4dca2-9d0f-42fd-a5a8-7e7f74c59ad3)
 
+![4](https://github.com/safae12-1/Projet_jsf7/assets/124156186/a71fb55e-bbb2-4a5b-b90b-22e5fcc52c2f)
+
 -->inscription:
