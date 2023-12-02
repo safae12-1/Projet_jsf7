@@ -35,6 +35,15 @@ service a été bien ajouté:
 
 ![mod2](https://github.com/safae12-1/Projet_jsf7/assets/124156186/6c99e60c-5bed-479a-8c09-3bb7b1913163)
 
+service a été bien modifié:
+
 ![modfin](https://github.com/safae12-1/Projet_jsf7/assets/124156186/46a4b637-b86c-480a-9c24-ded0698e7c64)
 
 -supprimer un service:
+
+![supp1ser](https://github.com/safae12-1/Projet_jsf7/assets/124156186/9bced744-35d5-49aa-9c8b-cc0f8f32f1da)
+
+service a été bien supprimer:
+
+![sup2ser](https://github.com/safae12-1/Projet_jsf7/assets/124156186/ec6e15a6-5842-45f7-aa84-f0f72f90faeb)
+
