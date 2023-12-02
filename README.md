@@ -1,5 +1,6 @@
 # Projet_jsf7
 -->inscription:
+
 ![1](https://github.com/safae12-1/Projet_jsf7/assets/124156186/1dbdfacd-b2bc-482c-9052-7230d61da56f)
 
 ![3](https://github.com/safae12-1/Projet_jsf7/assets/124156186/a821c0d9-92cb-429f-b5e8-0a21388f757f)
@@ -58,4 +59,22 @@ ajouter employé:
 employé a été bien ajouté:
 
 ![bienajoutemploye](https://github.com/safae12-1/Projet_jsf7/assets/124156186/5af1924a-e74b-48e5-9a36-c2b360495e13)
+
+modifier employé:
+
+![avantmodif](https://github.com/safae12-1/Projet_jsf7/assets/124156186/06bb4bb1-797a-45e1-9bdf-a1cf4cfd6f69)
+
+![66](https://github.com/safae12-1/Projet_jsf7/assets/124156186/38c1618a-220c-4a9c-8793-ee737aeca434)
+
+![77](https://github.com/safae12-1/Projet_jsf7/assets/124156186/fd1d1089-22d0-409a-9e69-09b329961e64)
+
+supprimer employé:
+
+![avantsupp](https://github.com/safae12-1/Projet_jsf7/assets/124156186/4a5a2ae5-5b11-45bc-8422-5abd7c4f2db3)
+
+![apres supp](https://github.com/safae12-1/Projet_jsf7/assets/124156186/94dada5b-f0c8-460f-859e-3134a287b261)
+
+-->Tree:
+
+![tree](https://github.com/safae12-1/Projet_jsf7/assets/124156186/b906fdf2-9f58-46df-8443-2c614886d1c6)
 
