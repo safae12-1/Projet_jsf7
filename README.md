@@ -47,3 +47,15 @@ service a été bien supprimer:
 
 ![sup2ser](https://github.com/safae12-1/Projet_jsf7/assets/124156186/ec6e15a6-5842-45f7-aa84-f0f72f90faeb)
 
+-->gestion des employées:
+
+![gestionemploye](https://github.com/safae12-1/Projet_jsf7/assets/124156186/7e59dae4-eb9d-4126-b784-31ec6698b6cf)
+
+ajouter employé:
+
+![ajoutemploye](https://github.com/safae12-1/Projet_jsf7/assets/124156186/46962389-d5be-4b0a-b254-0212db05ecc0)
+
+employé a été bien ajouté:
+
+![bienajoutemploye](https://github.com/safae12-1/Projet_jsf7/assets/124156186/5af1924a-e74b-48e5-9a36-c2b360495e13)
+
